@@ -2,7 +2,7 @@ ReDrop is a smart RO (Reverse Osmosis) monitoring system designed to improve wat
 
 It helps users track water quality, optimize filter usage, and reduce maintenance costs through smart alerts and predictive insights.
 
-<ul>🚀 Features
+<ul><h1>Features</h1>
 <li>🌱 Eco-friendly bio-carbon pre-filter</li>
 <li>📊 Real-time water quality monitoring</li>
 <li>📡 IoT-enabled live data tracking via Wi-Fi</li>
